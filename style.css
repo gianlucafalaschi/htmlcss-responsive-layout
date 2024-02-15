@@ -39,6 +39,10 @@ body {
     padding: 0 15px;
 }
 
+img {
+    width: 100%;
+}
+
 /*  */
 
 /* SECTION INTRO */
@@ -56,6 +60,17 @@ body {
     background-color: #B5DDFF;
 }
 
+.col-50 {
+    width: 50%;
+}
+
+.col-big .card {
+    display: flex;
+}
+
+
+
+
 
 
 /* RESPONSIVE */
@@ -69,3 +84,7 @@ body {
         width: 100%;
     }
 }
+
+
+
+/*  */
