@@ -22,7 +22,12 @@ body {
     font-size: 17px;
 }
 
+.txt-center {
+    text-align: center;
+}
+
 /*  */
+
 /* BUTTONS */
 .btn {
     font-size: 16px;
@@ -109,9 +114,13 @@ img {
     flex-grow: 1;
 }
 
+/* #intro .col, #intro .col-big {
+    background-color: #B5DDFF;
+} */
+
 #intro .card {
     background-color: #B5DDFF;
-}
+} 
 
 .col-50 {
     width: 50%;
@@ -130,14 +139,26 @@ img {
    padding-right: 8px; 
 }
 
+#intro .col-50-left {
+    background-color: #B5DDFF;
+}
+
 #intro .col-50-right {
     display: flex;
     align-items: flex-end;
-    background-color: #B5DDFF;
-    
+    background-color: #B5DDFF;  
 }
 
+#intro .col-50-right img {
+    width: 80%;
+}
 
+.card i.icon {
+    font-size:80px;
+    margin-bottom: 32px;
+}
+
+/*/  */
 
 /* RESPONSIVE */
 
