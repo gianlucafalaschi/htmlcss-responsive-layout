@@ -43,6 +43,7 @@ img {
     width: 100%;
 }
 
+
 /*  */
 
 /* SECTION INTRO */
@@ -53,6 +54,7 @@ img {
 }
 
 #intro .col-big {
+    display: flex;
     flex-grow: 1;
 }
 
@@ -64,9 +66,7 @@ img {
     width: 50%;
 }
 
-.col-big .card {
-    display: flex;
-}
+
 
 
 
