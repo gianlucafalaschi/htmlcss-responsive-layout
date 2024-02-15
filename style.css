@@ -190,7 +190,17 @@ img {
     #intro .col-50-right img {
         max-width: 36%;
     }
+
+    .card-type-1 {
+        border-radius: 18px 18px 0 0;
+    }
+
+    #intro .col-50-right {
+        border-radius: 0 0 18px 18px;
+    }
+
 }
+
 /*  */
 
 /* max width 768px */
