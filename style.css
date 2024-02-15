@@ -53,6 +53,10 @@ body {
     color: white;
 }
 
+.color-gray {
+    color: #5A6E7F;
+}
+
 
 /* GENERAL */
 .container {
@@ -113,9 +117,18 @@ img {
     width: 50%;
 }
 
+#intro h4 {
+    color: #0084FD;
+}
 
+#intro p {
+    color: #5A6E7F ;
+    font-weight: bold;
+}
 
-
+#intro i{
+   padding-right: 8px; 
+}
 
 
 
