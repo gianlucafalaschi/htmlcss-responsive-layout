@@ -18,7 +18,41 @@ body {
     font-family: "PT Sans", sans-serif; 
 }
 
+.card h4 {
+    font-size: 17px;
+}
+
 /*  */
+/* BUTTONS */
+.btn {
+    font-size: 16px;
+    font-family: "PT Sans", sans-serif; 
+}
+
+.btn-primary {
+    padding: 6px 40px;
+    border-radius: 20px;
+
+}
+
+
+/*  */
+
+/* COLORS */
+/* background color */
+.bg-blue {
+    background-color: #0084FD;
+}
+
+/* font color */
+.color-blue {
+    color: #0084FD;
+}
+
+.color-white {
+    color: white;
+}
+
 
 /* GENERAL */
 .container {
@@ -39,10 +73,23 @@ body {
     padding: 0 15px;
 }
 
+/* COMMON */
+
 img {
     width: 100%;
 }
 
+.card {
+    padding: 28px 22px 28px 22px;
+}
+
+.card h4 {
+    margin-bottom: 32px;
+}
+
+.card p {
+    margin-bottom:32px; 
+}
 
 /*  */
 
@@ -58,7 +105,7 @@ img {
     flex-grow: 1;
 }
 
-.card {
+#intro .card {
     background-color: #B5DDFF;
 }
 
