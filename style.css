@@ -208,6 +208,11 @@ img {
     #intro .col {
         width: 100%;
     }
+
+    #intro .col-50-right {
+        justify-content: center;
+    }
+
 }
 
 
