@@ -130,6 +130,12 @@ img {
    padding-right: 8px; 
 }
 
+#intro .col-50-right {
+    display: flex;
+    align-items: flex-end;
+    background-color: #B5DDFF;
+    
+}
 
 
 
