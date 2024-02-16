@@ -344,6 +344,10 @@ header a {
     align-items: center;
 }
 
+#testimonials .card:not(:last-child) {
+    margin-bottom: 24px;
+}
+
 #testimonials .circle-image{
     width: 200px;
     height: 200px;
