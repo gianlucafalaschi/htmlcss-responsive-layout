@@ -225,7 +225,8 @@ header .head-right .btn {
 header nav .hamburger {
     display: block;
     margin-left: 20px;
-    display: none;
+    display: block;
+    font-size: 20px;
 }
 
 header {
@@ -262,6 +263,16 @@ header {
     #intro .col-50-right {
         border-radius: 0 0 18px 18px;
     }
+
+    header nav .hamburger {
+        display: block;
+    }
+
+    header .head-right ul, header .head-right .btn {
+        display: none;
+    }
+
+
 
 }
 
