@@ -270,7 +270,27 @@ header a {
 /* SECTION PLANNING */
 #planning {
     background-color: #9792E4;
+    padding-top: 120px;
+    padding-bottom: 60px;
 }
+
+#planning .col {
+    width: calc(100% / 2);
+    flex-direction: column;
+}
+
+#planning h3 {
+    margin-bottom:44px ;
+}
+
+#planning img.plan {
+    margin-bottom: 110px;
+}
+
+/* #planning p {
+    margin-bottom: ;
+} */
+
 
 /*  */
 
