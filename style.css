@@ -434,6 +434,12 @@ header a {
         justify-content: center;
     }
 
+    #testimonials .card {
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
 }
 
 
