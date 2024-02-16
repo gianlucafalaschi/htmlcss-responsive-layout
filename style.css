@@ -342,10 +342,12 @@ header a {
 #testimonials .card {
     display: flex;
     align-items: center;
+    margin-bottom: 24px;
 }
 
-#testimonials .card:not(:last-child) {
-    margin-bottom: 24px;
+
+#testimonials .card.last{
+    margin-bottom: 0px;
 }
 
 #testimonials .circle-image{
