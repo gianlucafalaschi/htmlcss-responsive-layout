@@ -30,6 +30,10 @@ main {
     text-align: center;
 }
 
+.font-italic {
+    font-style: italic;
+}
+
 /*  */
 
 /* BUTTONS */
@@ -279,12 +283,17 @@ header a {
     flex-direction: column;
 }
 
+
 #planning h3 {
     margin-bottom:44px ;
 }
 
 #planning img.plan {
     margin-bottom: 110px;
+}
+
+#planning img.plan-two {
+    margin-bottom: 20px;
 }
 
 /* #planning p {
