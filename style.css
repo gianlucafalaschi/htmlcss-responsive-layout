@@ -37,7 +37,13 @@ body {
 .btn-primary {
     padding: 6px 40px;
     border-radius: 20px;
+    border: none;
+}
 
+.btn-secondary {
+    padding: 6px 12px;
+    border-radius: 20px;
+    border: none;
 }
 
 
@@ -47,6 +53,10 @@ body {
 /* background color */
 .bg-blue {
     background-color: #0084FD;
+}
+
+.bg-white {
+    background-color: white;
 }
 
 /* font color */
@@ -60,6 +70,10 @@ body {
 
 .color-gray {
     color: #5A6E7F;
+}
+
+.color-black {
+    color: black;
 }
 
 
@@ -185,20 +199,37 @@ header .col.col-header {
 }
 
 header .head-left {
-    width: 50%;
+    width: 40%;
+    display: flex;
+    align-items: center;
 }
 header .head-right {
-    width: 50%;
+    width: 60%;
     display: flex;
     justify-content: end;
+    align-items: center;
 }
 
 header .head-right ul {
     display: flex;
 }
 
+header nav li {
+    margin-right: 20px;
+}
+
 header .head-right .btn {
     display: flex;
+}
+
+header nav .hamburger {
+    display: block;
+    margin-left: 20px;
+    display: none;
+}
+
+header {
+    color: white;
 }
 
 /*/  */
