@@ -416,6 +416,10 @@ header a {
         width: 100%;
     }
 
+    #planning .col-align-end {
+        padding-top: 30px;
+    }
+
 }
 
 /*  */
