@@ -317,15 +317,20 @@ header a {
 }
 
 
-
-/* #planning p {
-    margin-bottom: ;
-} */
-
-
 /*  */
 
+/* TESTIMONIALS */
+#testimonials {
+    padding-top: 66px;
+    padding-bottom: 52px;
+}
 
+#testimonials .col{
+    display: block;
+    width: 100%;
+}
+
+/* / */
 
 
 
