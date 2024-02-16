@@ -22,6 +22,10 @@ main {
     line-height: 1.5;
 }
 
+h2 {
+    font-size: 35px;
+}
+
 h3 {
     font-size: 20px;
 }
@@ -353,6 +357,19 @@ header a {
     font-weight: bold;
 }
 
+#testimonials .up-title{
+    margin-bottom: 32px;
+    font-weight: 100;
+}
+
+#testimonials .main-title {
+    margin-bottom: 50px;
+}
+
+#testimonials .description {
+    margin-bottom: 50px;
+
+}
 
 /* / */
 
