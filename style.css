@@ -225,7 +225,7 @@ header .head-right .btn {
 header nav .hamburger {
     display: block;
     margin-left: 20px;
-    display: block;
+    display: none;
     font-size: 20px;
 }
 
