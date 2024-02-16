@@ -190,6 +190,10 @@ img {
     border-radius: 30px;
  }
 
+.card-type-4 {
+    border-radius: 30px;
+ }
+
 
 
 .col-50 {
@@ -329,6 +333,17 @@ header a {
     display: block;
     width: 100%;
 }
+
+#testimonials .circle-image {
+    border-radius:50%;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+
 
 /* / */
 
