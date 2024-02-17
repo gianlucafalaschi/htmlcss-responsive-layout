@@ -425,6 +425,30 @@ header a {
     font-size: 53px;
 }
 
+/* / */
+
+/* ABOUT */
+
+#about .col-66 {
+    width: calc(100% / 3 * 2);
+}
+
+#about .col-33 {
+    width: calc(100% / 3 * 1);
+}
+
+#about .circle-image{
+    width: 200px;
+    height: 200px;
+    border-radius:50% ;
+}
+
+
+/*/  */
+
+
+
+
 
 
 
