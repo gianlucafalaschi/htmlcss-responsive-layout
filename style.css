@@ -120,6 +120,9 @@ p {
     color: #D5D4F4;
 }
 
+.color-yellow {
+   color: #FDC15F;
+}
 
 /* GENERAL */
 .container {
@@ -507,6 +510,7 @@ header a {
 
 #start {
     background-color: #9792E4;
+    padding: 60px 0 60px 0;
 }
 
 #start .col{
@@ -525,6 +529,33 @@ header a {
 #start .btn-tertiary {
     font-weight: bold;
     letter-spacing: 2px;
+}
+
+#start .big-text{
+    font-size: 56px;
+}
+
+#start .small-title {
+    margin-bottom: 20px;
+}
+#start .title {
+    margin-bottom: 20px;
+}
+
+#start .big-text {
+    margin-bottom: 20px;
+}
+
+#start .description {
+    margin-bottom: 30px;
+}
+
+#start .btn-tertiary {
+    margin-bottom:30px ;
+}
+
+#start a {
+    color: inherit;
 }
 
 /* / */
