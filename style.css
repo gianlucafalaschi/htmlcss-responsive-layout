@@ -126,6 +126,13 @@ p {
     padding-right: 10px;
 }
 
+.mini-container {
+    max-width: 610px;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -484,10 +491,15 @@ header a {
     font-size:58px;
 }
 
-
 /*/  */
 
+/* START */
 
+#start {
+    background-color: #9792E4;
+}
+
+/* / */
 
 
 
