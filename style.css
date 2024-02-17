@@ -390,11 +390,12 @@ header a {
 #benefits {
     background-color: #9792E4;
     padding-top: 70px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 
 #benefits .col {
     width: calc(100% / 3);
+    margin-bottom: 20px;
 }
 
 #benefits .title {
@@ -463,6 +464,12 @@ header a {
     #planning .col-align-end {
         padding-top: 30px;
     }
+
+    #benefits .col {
+        width: 50%;
+    }
+
+
 
 }
 
