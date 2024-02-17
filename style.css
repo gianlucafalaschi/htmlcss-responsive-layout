@@ -429,20 +429,45 @@ header a {
 
 /* ABOUT */
 
-#about .col-66 {
-    width: calc(100% / 3 * 2);
+#about {
+    padding-top: 60px;
+    padding-bottom: 106px;
 }
 
-#about .col-33 {
-    width: calc(100% / 3 * 1);
+#about .col-70 {
+    width: 70%;
+}
+
+#about .col-30 {
+    width: 30%;
 }
 
 #about .circle-image{
     width: 200px;
     height: 200px;
-    border-radius:50% ;
+    border-radius:50%;
+    display: block;
+    margin: 0 auto 30px auto;
 }
 
+#about .col-70 .card > .title {
+    margin-bottom: 45px;
+    font-size: 58px;
+}
+
+#about .col-70 .card > .description{
+    margin-bottom: 60px;
+}
+
+#about .col-30 .card > .description {
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#about .butt-icon {
+    margin-right: 10px;
+}
 
 /*/  */
 
@@ -523,6 +548,13 @@ header a {
         width: 100%;
     }
 
+    #about .col-70, #about .col-30 {
+        width: 100%;
+    }
+
+    #about .circle-image {
+        margin: 0 0 30px 0;
+    }
 }
 
 
