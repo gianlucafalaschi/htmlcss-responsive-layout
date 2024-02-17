@@ -518,6 +518,10 @@ header a {
 
 }
 
+#start .card {
+    padding:0 100px;
+}
+
 #start .copyright{
     display: block;
 }
