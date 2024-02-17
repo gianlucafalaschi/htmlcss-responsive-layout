@@ -153,6 +153,11 @@ img {
 .card-type-1 p, .card-type-3 p {
     margin-bottom:32px; 
 }
+
+.card-type-5 {
+    border-radius: 14px;  
+}
+
 /*  */
 
 /*  */
@@ -198,10 +203,7 @@ img {
     border-radius: 30px;
  }
 
- .card-type-5 {
-    border-radius: 14px;
- }
-
+ 
 
 
 .col-50 {
@@ -399,8 +401,24 @@ header a {
     margin-bottom:56px ;
 }
 
+#benefits .card-type-5 {
+    padding: 40px 30px 30px 30px;
+}
 
+#benefits .card-type-5 .number {
+    margin-bottom:28px ;
+}
+#benefits .card-type-5 .card-small-title {
+    margin-bottom:28px ;
+}
 
+#benefits .card-type-5 .description {
+    margin-bottom: 28px;
+}
+
+#benefits .card-type-5 .card-title {
+    font-size: 53px;
+}
 
 
 
