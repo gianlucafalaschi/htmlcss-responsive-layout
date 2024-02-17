@@ -491,6 +491,10 @@ header a {
         text-align: center;
     }
 
+    #benefits .col {
+        width: 100%;
+    }
+
 }
 
 
