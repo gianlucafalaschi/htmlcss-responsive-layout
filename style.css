@@ -198,6 +198,10 @@ img {
     border-radius: 30px;
  }
 
+ .card-type-5 {
+    border-radius: 14px;
+ }
+
 
 
 .col-50 {
@@ -378,6 +382,28 @@ header a {
 }
 
 /* / */
+
+/* BENEFITS  */
+
+#benefits {
+    background-color: #9792E4;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+#benefits .col {
+    width: calc(100% / 3);
+}
+
+#benefits .title {
+    margin-bottom:56px ;
+}
+
+
+
+
+
+
 
 
 
