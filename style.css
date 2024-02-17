@@ -67,6 +67,12 @@ p {
     border: none;
 }
 
+.btn-tertiary {
+    padding: 16px 65px;
+    border-radius: 30px;
+    border: none;
+}
+
 .btn-circle {
     border: none;
     border-radius: 50px;
@@ -108,6 +114,10 @@ p {
 
 .color-purple {
     color: #9792E4;
+}
+
+.color-lightpurple {
+    color: #D5D4F4;
 }
 
 
@@ -497,6 +507,24 @@ header a {
 
 #start {
     background-color: #9792E4;
+}
+
+#start .col{
+    display: block;
+
+}
+
+#start .copyright{
+    display: block;
+}
+
+#start .small-title{
+    font-weight: 100;
+}
+
+#start .btn-tertiary {
+    font-weight: bold;
+    letter-spacing: 2px;
 }
 
 /* / */
