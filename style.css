@@ -464,6 +464,10 @@ header a {
     font-size: 53px;
 }
 
+#benefits .btn-primary {
+    letter-spacing: 2px;
+}
+
 /* / */
 
 /* ABOUT */
