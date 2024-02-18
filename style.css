@@ -146,6 +146,13 @@ p {
     padding-right: 10px;
 }
 
+.xxs-container{
+    max-width: 480px;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .row {
     display: flex;
     flex-wrap: wrap;
@@ -564,7 +571,33 @@ header a {
 
 /* / */
 
+/* FOOTER */
+footer {
+    background-color:#333333 ;
+}
 
+footer .col {
+    display: block;
+}
+
+footer .first-block, footer .second-block {
+    display: block;
+} 
+
+footer .second-block {
+    margin: 38px 60px;
+}
+
+footer .first-block {
+    margin-top: 38px;
+    margin-bottom: 60px;
+}
+
+footer a {
+    color: #8D88D3;
+}
+
+/*  */
 
 
 
